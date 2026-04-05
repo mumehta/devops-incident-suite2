@@ -1,8 +1,0 @@
-anthropic
-langgraph
-langchain-anthropic
-langchain-core
-streamlit
-slack-sdk
-jira
-python-dotenv
